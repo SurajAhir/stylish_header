@@ -1,7 +1,7 @@
 name: stylish_header
-description: A new Flutter project.
+description: A beautifull stylish header.
 version: 0.0.1
-homepage:
+homepage: https://github.com/SurajAhir/stylish_header
 
 environment:
   sdk: '>=2.18.0 <3.0.0'
