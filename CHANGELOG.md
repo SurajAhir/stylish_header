@@ -1,3 +1,3 @@
-## [0.0.1] - 2023-05-101
+0.0.1       . first version
 
-* A description for people who will use that package or version.
+0.0.2       . some code enhanced
